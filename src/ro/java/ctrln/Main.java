@@ -18,4 +18,5 @@ public class Main {
     pe main in meniul aparut in mod implicit, vom introduce functia main
      */
 }
-
+       //Comentariile pe o linie se pot desparti cu enter,formandu-se o noua linie comentariu,
+// iar tot ceea ce exista dupa locul unde am pus cursorul se transforma intr-o noua linie cu tasta Enter
